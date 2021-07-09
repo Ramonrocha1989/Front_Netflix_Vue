@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h2>
-      Cadastro de Veículos
+      Cadastro de Filmes
       <router-link to="/cadfilmes" class="btn btn-danger float-right ml-3">
         <i class="fas fa-plus-circle"></i> Adicionar
       </router-link>
